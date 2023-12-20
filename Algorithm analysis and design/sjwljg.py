@@ -58,6 +58,8 @@ def sparrow_search(search_space, iterations):
 
 # 运行麻雀搜索算法
 best_hyperparameters, layers_history, accuracy_history = sparrow_search(search_space, iterations=50)
+# best_hyperparameters, layers_history, accuracy_history = sparrow_search(search_space, iterations=20, epochs=3)
+
 
 # 打印最佳超参数
 print("最佳超参数：", best_hyperparameters)

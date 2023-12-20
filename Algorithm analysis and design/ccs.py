@@ -45,7 +45,7 @@ def sparrow_search(search_space, iterations):
         # 记录数据
         history_params.append(current_params)
         history_accuracy.append(current_accuracy)
-        # 判断是否为最优解，并记录最优解既更新种群
+        
         if current_accuracy > best_accuracy:
             best_params = current_params
             best_accuracy = current_accuracy

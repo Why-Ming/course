@@ -11,7 +11,7 @@
 创建成功  
 ![image](https://github.com/Why-Ming/course/assets/58331685/4d33b19f-85f3-4a67-a1e4-bef14a8a8c6e)
 
-GithubDesktop的下载与使用
+GithubDesktop的下载与使用  
 下载githubdesktop(https://desktop.github.com/)  
 ![image](https://github.com/Why-Ming/course/assets/58331685/35527dfc-8c17-4e3f-8a09-86cbd015e69f)
 

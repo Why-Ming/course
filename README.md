@@ -38,5 +38,9 @@
 6、在Github上查看operating_system下的README.md文件
 ![image](https://github.com/Why-Ming/course/assets/58331685/7553f8c5-1d37-46e5-9e41-ca634bbe0057)  
 
+7、当Github上的内容发生变化时，GitHubdesktop也会出现提示
+![image](https://github.com/Why-Ming/course/assets/58331685/ce7cd21e-fd95-4833-9d85-fccfaaec167b)
+
+
 
 
